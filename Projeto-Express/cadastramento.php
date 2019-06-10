@@ -22,7 +22,7 @@
       <div class="content">
         <h1 style="color:white;">Xpress</h1>
       </div>
-    </h2><!-- Lucas esse form nao sei se e pra enviar isso entao botei envio igual do login -->
+    <!-- Lucas esse form nao sei se e pra enviar isso entao botei envio igual do login -->
     <form class="ui large form" method="POST" action="login-php/processaFrom.php">
       <div class="ui stacked segment">
         <div class="field">
